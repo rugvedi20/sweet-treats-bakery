@@ -1,0 +1,168 @@
+{
+    "categories": [
+      {
+        "id": 1,
+        "category": "Cakes",
+        "products": [
+          {
+            
+            "name": "Chocolate Cake",
+            "description": "A rich chocolate cake with layers of creamy chocolate frosting.",
+            "image": "assets/chocolate cake.jfif",
+            "rating": "4.8/5",
+            "price": "Rs. 750"
+          },
+          {
+            
+            "name": "Vanilla Sponge Cake",
+            "description": "Light and fluffy vanilla cake topped with whipped cream.",
+            "image": "assets/vanilla cake.jfif",
+            "rating": "4.5/5",
+            "price": "Rs. 650"
+          },
+          {
+            
+            "name": "Red Velvet Cake",
+            "description": "A classic red velvet cake with cream cheese frosting.",
+            "image": "assets\redvelvet cake.jfif",
+            "rating": "4.7/5",
+            "price": "Rs. 800"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "Cupcakes",
+        "products": [
+          {
+            
+            "name": "Chocolate Cupcake",
+            "description": "A decadent chocolate cupcake with buttercream frosting.",
+            "image": "assets/chocolatecc.jpg",
+            "rating": "4.9/5",
+            "price": "Rs. 50/ piece"
+          },
+          {
+            
+            "name": "Vanilla Cupcake",
+            "description": "A soft vanilla cupcake topped with colorful sprinkles.",
+            "image": "assets/vanillacc.jfif",
+            "rating": "4.6/5",
+            "price": "Rs. 50/ piece"
+          },
+          {
+           
+            "name": "Lemon Cupcake",
+            "description": "A tangy lemon cupcake with lemon zest frosting.",
+            "image": "assets/lemoncc.jfif",
+            "rating": "4.8/5",
+            "price": "Rs. 50/ piece"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "category": "Donuts",
+        "products": [
+          {
+           
+            "name": "Glazed Donut",
+            "description": "A classic donut glazed with sugar.",
+            "image": "assets/glazeddon.jfif",
+            "rating": "4.7/5",
+            "price": "Rs. 50/ piece"
+          },
+          {
+            
+            "name": "Chocolate Sprinkled Donut",
+            "description": "A donut topped with chocolate and colorful sprinkles.",
+            "image": "assets/chocodon.jfif",
+            "rating": "4.6/5",
+            "price": "Rs. 50/ piece"
+          },
+          {
+            
+            "name": "Jelly-Filled Donut",
+            "description": "A fluffy donut filled with sweet strawberry jam.",
+            "image": "assets/jellydon.jfif",
+            "rating": "4.8/5",
+            "price": "Rs. 50/ piece"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "category": "Macarons",
+        "products": [
+          { 
+            "name": "Vanilla Macaron",
+            "description": "A light and crisp macaron with a smooth vanilla filling.",
+            "image": "assets/vanillamac.jfif",
+            "rating": "4.9/5",
+            "price": "Rs. 30/ piece"
+          },
+          {
+           
+            "name": "Chocolate Macaron",
+            "description": "A sweet chocolate macaron with ganache filling.",
+            "image": "assets/chocomac.jfif",
+            "rating": "4.8/5",
+            "price": "Rs. 30/ piece"
+          },
+          {
+            
+            "name": "Strawberry Macaron",
+            "description": "A tangy strawberry-flavored macaron.",
+            "image": "assets/strawberrymac.jfif",
+            "rating": "4.7/5",
+            "price": "Rs. 30/ piece"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "category": "Croissants",
+        "products": [
+          {
+          
+            "name": "Butter Croissant",
+            "description": "A buttery and flaky croissant.",
+            "image": "assets/buttercro.jfif",
+            "rating": "4.9/5",
+            "price": "Rs. 250/ piece"
+          },
+          {
+           
+            "name": "Chocolate Croissant",
+            "description": "A croissant filled with melted chocolate.",
+            "image": "assets/chococro.jfif",
+            "rating": "4.7/5",
+            "price": "Rs. 250/ piece"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "category": "Puddings",
+        "products": [
+          {
+            
+            "name": "Vanilla Pudding",
+            "description": "A creamy vanilla pudding topped with whipped cream.",
+            "image": "assets/vanillapud.jfif",
+            "rating": "4.8/5",
+            "price": "Rs. 250/ piece"
+          },
+          {
+           
+            "name": "Chocolate Pudding",
+            "description": "A rich and smooth chocolate pudding.",
+            "image": "assets/chocopud.jfif",
+            "rating": "4.7/5",
+            "price": "Rs. 250/ piece"
+          }
+        ]
+      }
+    ]
+  }
+  

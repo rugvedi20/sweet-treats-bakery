@@ -1,0 +1,61 @@
+{
+  "menuItems": [
+    {
+      "id": 1,
+      "title": "Heavenly Cakes",
+      "description": "Enjoy our heavenly cakes, made with the finest ingredients and perfect for any celebration.",
+      "image": "assets/cake1-card.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Irresistible Cupcakes",
+      "description": "Savor our irresistible cupcakes, featuring a light texture, creamy frosting, and a variety of delicious flavors.",
+      "image": "assets/cupcake-card.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Fluffy Donuts",
+      "description": "Delight in our fluffy, flavorful donuts, coated with tempting toppings and ideal for any time of day.",
+      "image": "assets/donut-card.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Delicate Macarons",
+      "description": "Indulge in our delicate macarons, featuring crisp shells and a range of exquisite, flavorful fillings.",
+      "image": "assets/macarons-card.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Buttery Croissants",
+      "description": "Experience our buttery, flaky croissants, baked to perfection for a delightful breakfast or snack.",
+      "image": "assets/croissant-card.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Rich Puddings",
+      "description": "Treat yourself to our creamy, rich pudding, crafted with smooth textures and delicious flavors for a comforting dessert.",
+      "image": "assets/pudding-card.jpg"
+    }
+  ],
+  "About": [
+    {
+      "text": "Welcome to Sweet Treats Bakery, your home for delicious treats and baked goods. Founded in 2024, Sweet Treats Bakery began with a simple mission: to bring joy through delightful baked goods. Our team of skilled bakers uses only the finest ingredients to craft pastries and cakes that are perfect for any occasion. We believe in the power of good food to create happy moments. Whether you're celebrating a special occasion or just looking for a sweet treat, we're here to make every moment a little sweeter.",
+      "img": "assets/bakery-team.jpeg"
+    }
+  ],
+  "Carousel": [
+    {
+      "id": 1,
+      "img1": "assets/cake.jpeg"
+    },
+    {
+      "id": 2,
+      "img2": "assets/donuts.jpeg"
+    },
+    {
+      "id": 3,
+      "img3": "assets/macarons.jpeg"
+    }
+  ]
+}
+  
